@@ -1,0 +1,10 @@
+# Virtual environment
+myenv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Experimental models
+進化するシステム/実験モデル/

@@ -1,0 +1,38 @@
+{
+  "fig_name": "fig4_B",
+  "target_strategy": "ADVISOR",
+  "opponent_strategy": "LIAR",
+  "T_values": [
+    100,
+    200,
+    300,
+    400,
+    500,
+    600,
+    700,
+    800,
+    900,
+    1000
+  ],
+  "r_values": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "freq_values": [
+    0.9
+  ],
+  "g": 5,
+  "N": 40,
+  "repeat": 100,
+  "max_generations": 500,
+  "base_seed": 410000
+}

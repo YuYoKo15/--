@@ -1,0 +1,46 @@
+{
+  "fig_name": "fig8_B",
+  "target_strategy": "CONDITIONAL_ADVISOR",
+  "opponent_strategy": "LIAR",
+  "T_values": [
+    50,
+    100,
+    150,
+    200,
+    300,
+    400,
+    500,
+    600
+  ],
+  "r_values": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "freq_values": [
+    0.9
+  ],
+  "g": 10,
+  "N": 40,
+  "repeat": 100,
+  "max_generations": 500,
+  "base_seed": 800000
+}

@@ -1,0 +1,38 @@
+{
+  "fig_name": "fig7",
+  "target_strategy": "LIKE_TFT",
+  "opponent_strategy": "LIAR",
+  "T_values": [
+    100,
+    200,
+    300,
+    400,
+    600,
+    800,
+    1000,
+    1200,
+    1400,
+    1600,
+    1800,
+    2000
+  ],
+  "r_values": [
+    0
+  ],
+  "freq_values": [
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.7,
+    0.8,
+    0.9
+  ],
+  "g": 5,
+  "N": 40,
+  "repeat": 100,
+  "max_generations": 500,
+  "base_seed": 700000
+}
